@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/project-template/commit/47f05bd5aaaa6473aef42fbb586f759beb57d43f",
       "git:hexsha": "47f05bd5aaaa6473aef42fbb586f759beb57d43f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T19:27:38.745490+00:00"
     }
   ]
 }
